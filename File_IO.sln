@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File_IO", "File_IO\File_IO.csproj", "{B31079D0-DD9C-426C-9CA9-E1C49BC6E587}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opdracht_3", "File_IO\Opdracht_3.csproj", "{B31079D0-DD9C-426C-9CA9-E1C49BC6E587}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opdracht_2a", "Opdracht_2a\Opdracht_2a.csproj", "{3A0B9867-2158-4066-BC9E-2F214C520DEC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opdracht_2", "Opdracht_2a\Opdracht_2.csproj", "{3A0B9867-2158-4066-BC9E-2F214C520DEC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

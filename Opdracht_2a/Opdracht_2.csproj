@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B31079D0-DD9C-426C-9CA9-E1C49BC6E587}</ProjectGuid>
+    <ProjectGuid>{3A0B9867-2158-4066-BC9E-2F214C520DEC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>File_IO</RootNamespace>
-    <AssemblyName>File_IO</AssemblyName>
+    <RootNamespace>Opdracht_2a</RootNamespace>
+    <AssemblyName>Opdracht_2a</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -54,6 +54,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
